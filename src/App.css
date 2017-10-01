@@ -1,0 +1,30 @@
+.container {
+	width: 700px;
+}
+
+.media-body .panel {
+	margin-bottom: 0px;
+}
+
+.user_handle {
+	font-weight: 600;
+}
+
+.user_name2 {
+	color: grey;
+	font-size: 1.3rem;
+}
+
+.tweet-footer {
+	margin-top: 3px;
+}
+
+.retweet-count,
+.time-elapsed,
+.reply,
+.retweet,
+.favorite {
+	color: grey;
+	font-size: 1.1rem;
+	margin-right: 20px;
+}
